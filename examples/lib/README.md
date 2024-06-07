@@ -10,7 +10,7 @@ managed in the dedicated area.
 
 The examples shown here provide an overview of the library.
 A more detailed annotated tour through various aspects of the library
-with ready-to work examples can be for [here](tour/READ;E.md).
+with ready-to work examples can be for [here](tour/README.md).
 
 In the [comparison scenario](comparison-scenario/README.md) there is
 an example for an end-to-end scenario, from providing a component version
